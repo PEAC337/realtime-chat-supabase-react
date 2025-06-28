@@ -1,0 +1,13 @@
+<component name="CopyrightManager">
+  <settings default="kojax">
+    <module2copyright>
+      <element module="All Changed Files" copyright="kojax" />
+      <element module="Scratches and Consoles" copyright="kojax" />
+      <element module="Production" copyright="kojax" />
+      <element module="Tests" copyright="kojax" />
+      <element module="All" copyright="kojax" />
+      <element module="Open Files" copyright="kojax" />
+      <element module="Project Non-Source Files" copyright="kojax" />
+    </module2copyright>
+  </settings>
+</component>
