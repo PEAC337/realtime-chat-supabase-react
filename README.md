@@ -21,7 +21,7 @@ Create a `.env` file with `VITE_SUPABASE_URL` and `VITE_SUPABASE_KEY` (see env.e
 The following database table is required:
 
 | Field            | Type      |
-| ---------------- | --------- |
+|------------------|-----------|
 | id               | BIGINT    |
 | username         | VARCHAR   |
 | text             | TEXT      |
